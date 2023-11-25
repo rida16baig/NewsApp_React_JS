@@ -26,7 +26,7 @@ In NewsApp, the whole news is categorized in many categories such as `bussiness`
 A user can click on any of these to read news as per his desire.Either a user is interested in Science & Technology or Entertainment & Health, he could easily read news from `NewsApp`.
 
 
-### Showing all news from `Enterrtainment` Category
+### Showing all news from `Entertainment` Category
 
 ![NewsApp](src/images/category.jpg)
 
